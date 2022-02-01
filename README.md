@@ -1,5 +1,5 @@
-- 👋 Hi, I’m @Jayesh598007
-- 👀 I’m interested in Web Development.
-- 🌱 I’m currently learning Full Stack Development.
-- 💞️ I’m looking forward to pursive my career with python as backend lang.
+- 👋 Hi, I’m  Jayesh Chaudhari (@Jayesh598007)
+- 👀 I’m specifically interested in JavaScript 
+- 🌱 I’m currently learning React
+- 💞️ I’m looking forward to pursive my career as a Full Stack Developer.
 - 📫 How to reach me - jayeshchau598007@gmail.com or ping me on 8380884059
